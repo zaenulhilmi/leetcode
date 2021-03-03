@@ -1,4 +1,4 @@
-package main
+package easy
 
 // LargestAltitude finding the largest altitude
 func LargestAltitude(gain []int) int {
